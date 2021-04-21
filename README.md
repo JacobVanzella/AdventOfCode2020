@@ -4,5 +4,5 @@
 
 This repository contains my solutions for the 2020 [Advent of Code](https://adventofcode.com/) coding challenge in C++.
 
-### Progress 11/25
+### Progress 12/25
 (This solution is a work in progress, I will publish each day as I complete them.)
